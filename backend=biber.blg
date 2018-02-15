@@ -1,0 +1,5 @@
+[0] Config.pm:302> INFO - This is Biber 2.10
+[0] Config.pm:305> INFO - Logfile is 'backend=biber.blg'
+[22] biber:313> INFO - === sob lut  3, 2018, 17:21:45
+[78] Utils.pm:209> ERROR - Cannot find control file 'backend=biber.bcf'! - did you pass the "backend=biber" option to BibLaTeX?
+[78] Biber.pm:114> INFO - ERRORS: 1

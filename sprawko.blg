@@ -1,0 +1,14 @@
+[0] Config.pm:302> INFO - This is Biber 2.10
+[0] Config.pm:305> INFO - Logfile is 'sprawko.blg'
+[25] biber:313> INFO - === czw lut 15, 2018, 01:20:18
+[46] Biber.pm:371> INFO - Reading 'sprawko.bcf'
+[104] Biber.pm:857> INFO - Found 10 citekeys in bib section 0
+[116] Biber.pm:3976> INFO - Processing section 0
+[129] Biber.pm:4136> INFO - Looking for bibtex format file 'bib.bib' for section 0
+[130] bibtex.pm:1490> INFO - LaTeX decoding ...
+[135] bibtex.pm:1306> INFO - Found BibTeX data source 'bib.bib'
+[157] UCollate.pm:68> INFO - Overriding locale 'pl-PL' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[157] UCollate.pm:68> INFO - Overriding locale 'pl-PL' defaults 'variable = shifted' with 'variable = non-ignorable'
+[157] Biber.pm:3804> INFO - Sorting list 'ynt/global//global/global' of type 'entry' with template 'ynt' and locale 'pl-PL'
+[172] bbl.pm:617> INFO - Writing 'sprawko.bbl' with encoding 'UTF-8'
+[176] bbl.pm:720> INFO - Output to sprawko.bbl

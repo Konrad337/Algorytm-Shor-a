@@ -1,0 +1,39 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {polish}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}Wst\IeC {\k e}p}{3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.1}Komputer kwantowy}{3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.1.1}Qubity}{3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.1.2}Stan qubita}{3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.1.3}Stan komputera kwantowego}{4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.1.4}Sfera Bloch'a}{5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2}Podstawowe bramki}{7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.2.1}Hadamard gate}{7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.2.2}Pauli-X gate czyli kwantowa bramka NOT}{8}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.2.3}Pauli-Y gate}{9}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.2.4}Pauli-Z gate}{10}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.2.5}CNOT gate}{11}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.2.6}S gate}{12}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.2.7}T gate}{13}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2}Opis og\IeC {\'o}lnego dzia\IeC {\l }ania algorytmu Shor'a }{14}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1}Zasada dzia\IeC {\l }ania algorytmu Shor'a}{14}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2}Implementacja algorytmu Shor'a na uk\IeC {\l }adzie kwantowym}{17}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}Dzia\IeC {\l }anie algorytmu Shor'a na przyk\IeC {\l }adzie rozk\IeC {\l }adu liczby 21 w konkretnym obwodzie kwantowym za pomoc\IeC {\k a} narz\IeC {\k e}dzia Quirk}{20}

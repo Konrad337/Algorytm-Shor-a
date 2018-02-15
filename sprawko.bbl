@@ -1,0 +1,145 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{ynt/global//global/global}
+    \entry{hadpic}{misc}{}
+      \field{sortinit}{9}
+      \field{sortinithash}{2999ebab86052e6d71b434385f8b4ed2}
+      \field{labeltitlesource}{title}
+      \field{title}{agh jeanbel}
+      \verb{urlraw}
+      \verb "http://people.math.gatech.edu/~jeanbel/4803/Lectures/Gates/qgates.html"
+      \endverb
+      \verb{url}
+      \verb http://people.math.gatech.edu/~jeanbel/4803/Lectures/Gates/qgates.html
+      \endverb
+    \endentry
+    \entry{furier}{misc}{}
+      \field{sortinit}{9}
+      \field{sortinithash}{2999ebab86052e6d71b434385f8b4ed2}
+      \field{labeltitlesource}{title}
+      \field{title}{Algorithmic Assertions}
+      \verb{urlraw}
+      \verb "http://algassert.com/post/1718"
+      \endverb
+      \verb{url}
+      \verb http://algassert.com/post/1718
+      \endverb
+    \endentry
+    \entry{pdf}{misc}{}
+      \field{sortinit}{9}
+      \field{sortinithash}{2999ebab86052e6d71b434385f8b4ed2}
+      \field{labeltitlesource}{title}
+      \field{title}{Comment on Demonstrations of Shor’s Algorithm in the Past Decades by Zhengjun Cao1, Zhenfu Cao, Lihua Liu}
+      \verb{urlraw}
+      \verb "https://eprint.iacr.org/2015/1207.pdf"
+      \endverb
+      \verb{url}
+      \verb https://eprint.iacr.org/2015/1207.pdf
+      \endverb
+    \endentry
+    \entry{bloch}{misc}{}
+      \field{sortinit}{9}
+      \field{sortinithash}{2999ebab86052e6d71b434385f8b4ed2}
+      \field{labeltitlesource}{title}
+      \field{title}{Ian Glendinning for EUROPEAN CENTRE FOR PARALLEL COMPUTING AT VIENNA}
+      \verb{urlraw}
+      \verb "http://www.vcpc.univie.ac.at/~ian/hotlist/qc/talks/bloch-sphere.pdf"
+      \endverb
+      \verb{url}
+      \verb http://www.vcpc.univie.ac.at/~ian/hotlist/qc/talks/bloch-sphere.pdf
+      \endverb
+    \endentry
+    \entry{qubit}{misc}{}
+      \field{sortinit}{9}
+      \field{sortinithash}{2999ebab86052e6d71b434385f8b4ed2}
+      \field{labeltitlesource}{title}
+      \field{title}{qubit by Margaret Rouse}
+      \verb{urlraw}
+      \verb "http://whatis.techtarget.com/definition/qubit"
+      \endverb
+      \verb{url}
+      \verb http://whatis.techtarget.com/definition/qubit
+      \endverb
+    \endentry
+    \entry{quirk}{misc}{}
+      \field{sortinit}{9}
+      \field{sortinithash}{2999ebab86052e6d71b434385f8b4ed2}
+      \field{labeltitlesource}{title}
+      \field{title}{Quirk!}
+      \verb{urlraw}
+      \verb "http://algassert.com/quirk"
+      \endverb
+      \verb{url}
+      \verb http://algassert.com/quirk
+      \endverb
+    \endentry
+    \entry{shoropis}{misc}{}
+      \field{sortinit}{9}
+      \field{sortinithash}{2999ebab86052e6d71b434385f8b4ed2}
+      \field{labeltitlesource}{title}
+      \field{title}{Stephanie Blanda - Shor’s Quantum Factoring Algorithm}
+      \verb{urlraw}
+      \verb "https://blogs.ams.org/mathgradblog/2014/04/30/shors-algorithm-breaking-rsa-encryption/"
+      \endverb
+      \verb{url}
+      \verb https://blogs.ams.org/mathgradblog/2014/04/30/shors-algorithm-breaking-rsa-encryption/
+      \endverb
+    \endentry
+    \entry{hadamard}{misc}{}
+      \field{sortinit}{9}
+      \field{sortinithash}{2999ebab86052e6d71b434385f8b4ed2}
+      \field{labeltitlesource}{title}
+      \field{title}{The Hadamard gate by Michael Nielsen}
+      \verb{urlraw}
+      \verb "https://www.youtube.com/watch?v=x6gOp_o7Bi8"
+      \endverb
+      \verb{url}
+      \verb https://www.youtube.com/watch?v=x6gOp_o7Bi8
+      \endverb
+    \endentry
+    \entry{spin}{misc}{}
+      \field{sortinit}{9}
+      \field{sortinithash}{2999ebab86052e6d71b434385f8b4ed2}
+      \field{labeltitlesource}{title}
+      \field{title}{Veritasum}
+      \verb{urlraw}
+      \verb "https://www.youtube.com/watch?v=v1_-LsQLwkA"
+      \endverb
+      \verb{url}
+      \verb https://www.youtube.com/watch?v=v1_-LsQLwkA
+      \endverb
+    \endentry
+    \entry{bramki}{misc}{}
+      \field{sortinit}{9}
+      \field{sortinithash}{2999ebab86052e6d71b434385f8b4ed2}
+      \field{labeltitlesource}{title}
+      \field{title}{Wikipedia the free encyklopedia}
+      \verb{urlraw}
+      \verb "https://en.wikipedia.org/wiki/Quantum_gate"
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/wiki/Quantum_gate
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
